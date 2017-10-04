@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126930946116",
+    "firebase_url": "https://project--5583840442893061382.firebaseio.com",
+    "project_id": "project--5583840442893061382",
+    "storage_bucket": "project--5583840442893061382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126930946116:android:136e87c449dc031c",
+        "android_client_info": {
+          "package_name": "androiddevelopment.androidweargooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126930946116-v54rh6bjt0q6fq4buk3497jdjid1l1su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androiddevelopment.androidweargooglesignin",
+            "certificate_hash": "1b6e79424f6207a4a153a531ad05712529b4bfd5"
+          }
+        },
+        {
+          "client_id": "126930946116-3bue0kjnvq34j9s5igbjtlvefhrh5itn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_NuZ8f68XuX2j4tbIRpKwx6ElMmFXO18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126930946116-3bue0kjnvq34j9s5igbjtlvefhrh5itn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
